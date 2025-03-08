@@ -1,0 +1,23 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.suo
+*.ncrunchsolution
+*.ncrunchproject
+_NCrunch_*
+
+# Logs
+logs/
+*.log

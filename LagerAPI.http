@@ -1,0 +1,6 @@
+@LagerAPI_HostAddress = http://localhost:5290
+
+GET {{LagerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
